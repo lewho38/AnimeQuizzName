@@ -37,7 +37,7 @@ public class lvlHandle : MonoBehaviour {
             }
         }
 
-        init_perso(data,Image_Perso);
+        Init_perso(data,Image_Perso);
 
 	}
 	
@@ -48,12 +48,17 @@ public class lvlHandle : MonoBehaviour {
 
 
 
-    void init_perso(string[] d,List<Sprite> img)
+    void Init_perso(string[] d,List<Sprite> img)
     {
         for (int i = 0; i < d.Length; i++)
         {
+            string[] splittedString = d[i].Split(',');
             var temp = Instantiate(B_perso);
-            temp.name = "" + (i + 1);
+            temp.name = d[i];
+            Answer answ = temp.GetComponent<Answer>();
+            answ.Id = int.Parse(splittedString[0]);
+            answ.Anime = splittedString[2];
+            answ.Nom = splittedString[1];
             temp.GetComponent<Image>().sprite = img[i];
             temp.transform.SetParent(layout.transform);
 

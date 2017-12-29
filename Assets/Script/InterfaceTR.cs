@@ -1,6 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class InterfaceTR : MonoBehaviour {
 
@@ -39,11 +40,9 @@ public class InterfaceTR : MonoBehaviour {
             }
         }
 
-        setupLvl();
+        SetupLvl();
 
         float tempheight = 1176 + (cellsup * 236);
-
-        Debug.Log(tempheight);
 
         layoutRect.sizeDelta = new Vector2(720,tempheight);
 
@@ -51,17 +50,15 @@ public class InterfaceTR : MonoBehaviour {
 
         tempheight /= -2;
 
-        Debug.Log(tempheight);
-
         //layoutRect.position.Set(layoutRect.position.x, tempheight, 0);
         layoutRect.anchoredPosition.Set(layoutRect.position.x, tempheight);
 
-		lvlSc.gameObject.SetActive (false);
+        lvlSc.gameObject.SetActive (false);
     }
-	
-	// Update is called once per frame
+
+    // Update is called once per frame
 	void Update () {
-		if (lvlselect!=0) {
+        if (lvlselect!=0) {
 			lvlSc.lvl = lvlselect;
 			lvlSc.gameObject.SetActive (true);
 			mainSc.SetActive (false);
@@ -70,7 +67,7 @@ public class InterfaceTR : MonoBehaviour {
     }
 
 
-    public void setupLvl()
+    public void SetupLvl()
     {
 
         for (int i = 0; i < NbLvl; i++)
@@ -90,9 +87,11 @@ public class InterfaceTR : MonoBehaviour {
 
     }
 
-	public void backMainMenu(){
+	public void BackMainMenu(){
 		lvlSc.gameObject.SetActive (false);
 
 		mainSc.SetActive (true);
 	}
+
+
 }
