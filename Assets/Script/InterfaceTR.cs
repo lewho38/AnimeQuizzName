@@ -51,7 +51,8 @@ public class InterfaceTR : MonoBehaviour {
         tempheight /= -2;
 
         //layoutRect.position.Set(layoutRect.position.x, tempheight, 0);
-        layoutRect.anchoredPosition.Set(layoutRect.position.x, tempheight);
+        //layoutRect.anchoredPosition.Set(layoutRect.position.x, tempheight);
+        layoutRect.anchoredPosition = new Vector2(-10, tempheight);//alors le set ne marche pas mais le but de ce truc c'est de reset l'affichage du content au lvl 1 (et non pas a une pos random)
 
         lvlSc.gameObject.SetActive (false);
     }
