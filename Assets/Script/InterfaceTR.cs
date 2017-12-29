@@ -82,7 +82,7 @@ public class InterfaceTR : MonoBehaviour {
 
             temp.GetComponentInChildren<Text>().text = "" + (i + 1);
 
-            temp.transform.parent = layout.transform;
+            temp.transform.SetParent(layout.transform);
 
             temp.transform.localScale = new Vector3(2.2f, 2.2f, 1);
 
