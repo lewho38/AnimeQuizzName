@@ -334,11 +334,13 @@
     <Compile Include="Assets\Script\Bouton.cs" />
     <Compile Include="Assets\Script\CanvasManager.cs" />
     <Compile Include="Assets\Script\Clavier.cs" />
+    <Compile Include="Assets\Script\HandlerClick.cs" />
     <Compile Include="Assets\Script\ImageAnime.cs" />
     <Compile Include="Assets\Script\InterfaceTR.cs" />
     <Compile Include="Assets\Script\lvlHandle (1).cs" />
     <Compile Include="Assets\Script\lvlHandle.cs" />
     <Compile Include="Assets\Script\Reponse.cs" />
+    <Compile Include="Assets\Script\ReponseLettre.cs" />
     <Compile Include="Assets\Script\Scenes.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01_UGUI.cs" />

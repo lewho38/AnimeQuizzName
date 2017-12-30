@@ -11,9 +11,9 @@ MonoBehaviour:
   m_Script: {fileID: 1038538317, guid: 9a061e60adce7b54fb5293b1f59c5b07, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lastUpdatedAtString: 2017-12-30T17:49:50.1951066+01:00
-  lastVerifiedAtString: 2017-12-30T17:49:50.1951066+01:00
-  initializedAtString: 2017-12-30T14:54:00.1546788+01:00
+  lastUpdatedAtString: 2017-12-31T00:39:51.3462120+01:00
+  lastVerifiedAtString: 2017-12-31T00:41:02.7992989+01:00
+  initializedAtString: 2017-12-30T19:46:18.6918258+01:00
   entries:
   - path: .vs\AnimeQuizzName\v15\.suo
     fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\.vs\AnimeQuizzName\v15\.suo
@@ -24,6 +24,18 @@ MonoBehaviour:
   - path: .vs\AnimeQuizzName\v15\Server\sqlite3\storage.ide
     fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\.vs\AnimeQuizzName\v15\Server\sqlite3\storage.ide
     projectPath: .vs\AnimeQuizzName\v15\Server\sqlite3\storage.ide
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: .vs\AnimeQuizzName\v15\Server\sqlite3\storage.ide-shm
+    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\.vs\AnimeQuizzName\v15\Server\sqlite3\storage.ide-shm
+    projectPath: .vs\AnimeQuizzName\v15\Server\sqlite3\storage.ide-shm
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: .vs\AnimeQuizzName\v15\Server\sqlite3\storage.ide-wal
+    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\.vs\AnimeQuizzName\v15\Server\sqlite3\storage.ide-wal
+    projectPath: .vs\AnimeQuizzName\v15\Server\sqlite3\storage.ide-wal
     originalPath: 
     status: 3
     staged: 0
@@ -39,51 +51,33 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: Assets\Clavier.cs
-    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Assets\Clavier.cs
-    projectPath: Assets\Clavier.cs
+  - path: Assets\Main.unity
+    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Assets\Main.unity
+    projectPath: Assets\Main.unity
     originalPath: 
-    status: 5
+    status: 3
     staged: 0
-  - path: Assets\Clavier.cs.meta
-    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Assets\Clavier.cs.meta
-    projectPath: Assets\Clavier.cs.meta
+  - path: Assets\Resources\LVL\cfgs\lvl1.cfg
+    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Assets\Resources\LVL\cfgs\lvl1.cfg
+    projectPath: Assets\Resources\LVL\cfgs\lvl1.cfg
     originalPath: 
-    status: 5
+    status: 3
     staged: 0
-  - path: Assets\ImageAnime.cs
-    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Assets\ImageAnime.cs
-    projectPath: Assets\ImageAnime.cs
+  - path: Assets\Script\Clavier.cs
+    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Assets\Script\Clavier.cs
+    projectPath: Assets\Script\Clavier.cs
     originalPath: 
-    status: 5
+    status: 3
     staged: 0
-  - path: Assets\ImageAnime.cs.meta
-    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Assets\ImageAnime.cs.meta
-    projectPath: Assets\ImageAnime.cs.meta
+  - path: Assets\Script\Reponse.cs
+    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Assets\Script\Reponse.cs
+    projectPath: Assets\Script\Reponse.cs
     originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Reponse.cs
-    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Assets\Reponse.cs
-    projectPath: Assets\Reponse.cs
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Reponse.cs.meta
-    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Assets\Reponse.cs.meta
-    projectPath: Assets\Reponse.cs.meta
-    originalPath: 
-    status: 5
+    status: 3
     staged: 0
   - path: Assets\prefab\LettreClavier.prefab
     fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Assets\prefab\LettreClavier.prefab
     projectPath: Assets\prefab\LettreClavier.prefab
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Assets\prefab\LettreClavier.prefab.meta
-    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Assets\prefab\LettreClavier.prefab.meta
-    projectPath: Assets\prefab\LettreClavier.prefab.meta
     originalPath: 
     status: 3
     staged: 0
@@ -98,12 +92,6 @@ MonoBehaviour:
     projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
     originalPath: 
     status: 3
-    staged: 0
-  - path: Library\ScriptAssemblies\BuiltinAssemblies.stamp
-    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Library\ScriptAssemblies\BuiltinAssemblies.stamp
-    projectPath: Library\ScriptAssemblies\BuiltinAssemblies.stamp
-    originalPath: 
-    status: 5
     staged: 0
   - path: Library\assetDatabase3
     fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Library\assetDatabase3
@@ -133,7 +121,7 @@ MonoBehaviour:
     fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Library\gfu\cache\gitstatusentries.yaml
     projectPath: Library\gfu\cache\gitstatusentries.yaml
     originalPath: 
-    status: 5
+    status: 3
     staged: 0
   - path: Library\gfu\cache\gittrackingstatus.yaml
     fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Library\gfu\cache\gittrackingstatus.yaml
@@ -147,15 +135,9 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: Library\metadata\19\196d37aba50434042a147d431c6426b6
-    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Library\metadata\19\196d37aba50434042a147d431c6426b6
-    projectPath: Library\metadata\19\196d37aba50434042a147d431c6426b6
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\metadata\19\196d37aba50434042a147d431c6426b6.info
-    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Library\metadata\19\196d37aba50434042a147d431c6426b6.info
-    projectPath: Library\metadata\19\196d37aba50434042a147d431c6426b6.info
+  - path: Library\metadata\09\09adcb1d2977ec84fb8f2acceb7d48b4.info
+    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Library\metadata\09\09adcb1d2977ec84fb8f2acceb7d48b4.info
+    projectPath: Library\metadata\09\09adcb1d2977ec84fb8f2acceb7d48b4.info
     originalPath: 
     status: 3
     staged: 0
@@ -165,99 +147,45 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: Library\metadata\6c\6c4cf58d2e4debd43b48503f6635a83e.info
-    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Library\metadata\6c\6c4cf58d2e4debd43b48503f6635a83e.info
-    projectPath: Library\metadata\6c\6c4cf58d2e4debd43b48503f6635a83e.info
-    originalPath: 
-    status: 3
-    staged: 0
   - path: Library\metadata\99\99f557e874aaf2a4b807d7c90efbc5c8
     fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Library\metadata\99\99f557e874aaf2a4b807d7c90efbc5c8
     projectPath: Library\metadata\99\99f557e874aaf2a4b807d7c90efbc5c8
     originalPath: 
     status: 3
     staged: 0
-  - path: Library\metadata\99\99f557e874aaf2a4b807d7c90efbc5c8.info
-    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Library\metadata\99\99f557e874aaf2a4b807d7c90efbc5c8.info
-    projectPath: Library\metadata\99\99f557e874aaf2a4b807d7c90efbc5c8.info
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\metadata\b4\b48057e61e0a96c49927cdb63b72ae7b
-    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Library\metadata\b4\b48057e61e0a96c49927cdb63b72ae7b
-    projectPath: Library\metadata\b4\b48057e61e0a96c49927cdb63b72ae7b
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\metadata\b4\b48057e61e0a96c49927cdb63b72ae7b.info
-    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Library\metadata\b4\b48057e61e0a96c49927cdb63b72ae7b.info
-    projectPath: Library\metadata\b4\b48057e61e0a96c49927cdb63b72ae7b.info
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
-    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Library\shadercompiler-UnityShaderCompiler.exe0.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: .vs\AnimeQuizzName\v15\Server\sqlite3\storage.ide-shm
-    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\.vs\AnimeQuizzName\v15\Server\sqlite3\storage.ide-shm
-    projectPath: .vs\AnimeQuizzName\v15\Server\sqlite3\storage.ide-shm
+  - path: Assets\Resources\LVL\imgs\4.jpg
+    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Assets\Resources\LVL\imgs\4.jpg
+    projectPath: Assets\Resources\LVL\imgs\4.jpg
     originalPath: 
     status: 1
     staged: 0
-  - path: .vs\AnimeQuizzName\v15\Server\sqlite3\storage.ide-wal
-    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\.vs\AnimeQuizzName\v15\Server\sqlite3\storage.ide-wal
-    projectPath: .vs\AnimeQuizzName\v15\Server\sqlite3\storage.ide-wal
+  - path: Assets\Resources\LVL\imgs\4.jpg.meta
+    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Assets\Resources\LVL\imgs\4.jpg.meta
+    projectPath: Assets\Resources\LVL\imgs\4.jpg.meta
     originalPath: 
     status: 1
     staged: 0
-  - path: Assets\Script\CanvasManager.cs
-    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Assets\Script\CanvasManager.cs
-    projectPath: Assets\Script\CanvasManager.cs
+  - path: Assets\Script\HandlerClick.cs
+    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Assets\Script\HandlerClick.cs
+    projectPath: Assets\Script\HandlerClick.cs
     originalPath: 
     status: 1
     staged: 0
-  - path: Assets\Script\CanvasManager.cs.meta
-    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Assets\Script\CanvasManager.cs.meta
-    projectPath: Assets\Script\CanvasManager.cs.meta
+  - path: Assets\Script\HandlerClick.cs.meta
+    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Assets\Script\HandlerClick.cs.meta
+    projectPath: Assets\Script\HandlerClick.cs.meta
     originalPath: 
     status: 1
     staged: 0
-  - path: Assets\Script\Clavier.cs
-    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Assets\Script\Clavier.cs
-    projectPath: Assets\Script\Clavier.cs
+  - path: Assets\Script\ReponseLettre.cs
+    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Assets\Script\ReponseLettre.cs
+    projectPath: Assets\Script\ReponseLettre.cs
     originalPath: 
     status: 1
     staged: 0
-  - path: Assets\Script\Clavier.cs.meta
-    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Assets\Script\Clavier.cs.meta
-    projectPath: Assets\Script\Clavier.cs.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Script\ImageAnime.cs
-    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Assets\Script\ImageAnime.cs
-    projectPath: Assets\Script\ImageAnime.cs
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Script\ImageAnime.cs.meta
-    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Assets\Script\ImageAnime.cs.meta
-    projectPath: Assets\Script\ImageAnime.cs.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Script\Reponse.cs
-    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Assets\Script\Reponse.cs
-    projectPath: Assets\Script\Reponse.cs
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Script\Reponse.cs.meta
-    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Assets\Script\Reponse.cs.meta
-    projectPath: Assets\Script\Reponse.cs.meta
+  - path: Assets\Script\ReponseLettre.cs.meta
+    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Assets\Script\ReponseLettre.cs.meta
+    projectPath: Assets\Script\ReponseLettre.cs.meta
     originalPath: 
     status: 1
     staged: 0
@@ -267,15 +195,39 @@ MonoBehaviour:
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\metadata\68\6801cf4e9cc953740ad869025bc55654
-    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Library\metadata\68\6801cf4e9cc953740ad869025bc55654
-    projectPath: Library\metadata\68\6801cf4e9cc953740ad869025bc55654
+  - path: Library\metadata\95\959dfa883a92d3f479dade2d40f52e18
+    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Library\metadata\95\959dfa883a92d3f479dade2d40f52e18
+    projectPath: Library\metadata\95\959dfa883a92d3f479dade2d40f52e18
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\metadata\68\6801cf4e9cc953740ad869025bc55654.info
-    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Library\metadata\68\6801cf4e9cc953740ad869025bc55654.info
-    projectPath: Library\metadata\68\6801cf4e9cc953740ad869025bc55654.info
+  - path: Library\metadata\95\959dfa883a92d3f479dade2d40f52e18.info
+    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Library\metadata\95\959dfa883a92d3f479dade2d40f52e18.info
+    projectPath: Library\metadata\95\959dfa883a92d3f479dade2d40f52e18.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\d6\d6b07e24435e342448a03c9411bd2a35
+    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Library\metadata\d6\d6b07e24435e342448a03c9411bd2a35
+    projectPath: Library\metadata\d6\d6b07e24435e342448a03c9411bd2a35
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\d6\d6b07e24435e342448a03c9411bd2a35.info
+    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Library\metadata\d6\d6b07e24435e342448a03c9411bd2a35.info
+    projectPath: Library\metadata\d6\d6b07e24435e342448a03c9411bd2a35.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\ff\ff72752a3c5150f46bd265a5fbcfadc6
+    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Library\metadata\ff\ff72752a3c5150f46bd265a5fbcfadc6
+    projectPath: Library\metadata\ff\ff72752a3c5150f46bd265a5fbcfadc6
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\ff\ff72752a3c5150f46bd265a5fbcfadc6.info
+    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Library\metadata\ff\ff72752a3c5150f46bd265a5fbcfadc6.info
+    projectPath: Library\metadata\ff\ff72752a3c5150f46bd265a5fbcfadc6.info
     originalPath: 
     status: 1
     staged: 0
@@ -285,201 +237,315 @@ MonoBehaviour:
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp\UnityTempFile-02a0e30fa2fb8d24ca0ce63cf27ba699
-    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Temp\UnityTempFile-02a0e30fa2fb8d24ca0ce63cf27ba699
-    projectPath: Temp\UnityTempFile-02a0e30fa2fb8d24ca0ce63cf27ba699
+  - path: Temp\UnityTempFile-03276d2d600b4bd4cb028e3c1468c907
+    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Temp\UnityTempFile-03276d2d600b4bd4cb028e3c1468c907
+    projectPath: Temp\UnityTempFile-03276d2d600b4bd4cb028e3c1468c907
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp\UnityTempFile-02d9f10ce7cf52145be951540044fae4
-    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Temp\UnityTempFile-02d9f10ce7cf52145be951540044fae4
-    projectPath: Temp\UnityTempFile-02d9f10ce7cf52145be951540044fae4
+  - path: Temp\UnityTempFile-0336ecd3122472843a1a7e397640b494
+    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Temp\UnityTempFile-0336ecd3122472843a1a7e397640b494
+    projectPath: Temp\UnityTempFile-0336ecd3122472843a1a7e397640b494
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp\UnityTempFile-044f9681b6064c645affcfaef545c96e
-    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Temp\UnityTempFile-044f9681b6064c645affcfaef545c96e
-    projectPath: Temp\UnityTempFile-044f9681b6064c645affcfaef545c96e
+  - path: Temp\UnityTempFile-0750071673290ec489d15ce594f116b1
+    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Temp\UnityTempFile-0750071673290ec489d15ce594f116b1
+    projectPath: Temp\UnityTempFile-0750071673290ec489d15ce594f116b1
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp\UnityTempFile-05b9c808ad5bc194a9624ea34ee85a30
-    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Temp\UnityTempFile-05b9c808ad5bc194a9624ea34ee85a30
-    projectPath: Temp\UnityTempFile-05b9c808ad5bc194a9624ea34ee85a30
+  - path: Temp\UnityTempFile-09fa0658b94a72242bdb658b6c9a6e6c
+    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Temp\UnityTempFile-09fa0658b94a72242bdb658b6c9a6e6c
+    projectPath: Temp\UnityTempFile-09fa0658b94a72242bdb658b6c9a6e6c
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp\UnityTempFile-081a1a2f28173914c85b84af054d31da
-    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Temp\UnityTempFile-081a1a2f28173914c85b84af054d31da
-    projectPath: Temp\UnityTempFile-081a1a2f28173914c85b84af054d31da
+  - path: Temp\UnityTempFile-130d9630aa5402848ab836353a4b0f91
+    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Temp\UnityTempFile-130d9630aa5402848ab836353a4b0f91
+    projectPath: Temp\UnityTempFile-130d9630aa5402848ab836353a4b0f91
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp\UnityTempFile-0bd08d0c20996b647ab308380bfd5899
-    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Temp\UnityTempFile-0bd08d0c20996b647ab308380bfd5899
-    projectPath: Temp\UnityTempFile-0bd08d0c20996b647ab308380bfd5899
+  - path: Temp\UnityTempFile-132e5457a00ced946a1a026c937f72d0
+    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Temp\UnityTempFile-132e5457a00ced946a1a026c937f72d0
+    projectPath: Temp\UnityTempFile-132e5457a00ced946a1a026c937f72d0
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp\UnityTempFile-1631a2a6770248a409756da09a30bc69
-    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Temp\UnityTempFile-1631a2a6770248a409756da09a30bc69
-    projectPath: Temp\UnityTempFile-1631a2a6770248a409756da09a30bc69
+  - path: Temp\UnityTempFile-16c9406a5a6100343a0f3850d5101be5
+    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Temp\UnityTempFile-16c9406a5a6100343a0f3850d5101be5
+    projectPath: Temp\UnityTempFile-16c9406a5a6100343a0f3850d5101be5
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp\UnityTempFile-197cbbdd5adcd834e83a62d4f0843ae0
-    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Temp\UnityTempFile-197cbbdd5adcd834e83a62d4f0843ae0
-    projectPath: Temp\UnityTempFile-197cbbdd5adcd834e83a62d4f0843ae0
+  - path: Temp\UnityTempFile-18380409cb71b3f409f73d0b5062e46b
+    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Temp\UnityTempFile-18380409cb71b3f409f73d0b5062e46b
+    projectPath: Temp\UnityTempFile-18380409cb71b3f409f73d0b5062e46b
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp\UnityTempFile-35acf149ff43d0b41ab981776050e22d
-    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Temp\UnityTempFile-35acf149ff43d0b41ab981776050e22d
-    projectPath: Temp\UnityTempFile-35acf149ff43d0b41ab981776050e22d
+  - path: Temp\UnityTempFile-231218d381421934e840814eeecc5646
+    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Temp\UnityTempFile-231218d381421934e840814eeecc5646
+    projectPath: Temp\UnityTempFile-231218d381421934e840814eeecc5646
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp\UnityTempFile-3936ab91a08e64c4abf474349a2bda84
-    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Temp\UnityTempFile-3936ab91a08e64c4abf474349a2bda84
-    projectPath: Temp\UnityTempFile-3936ab91a08e64c4abf474349a2bda84
+  - path: Temp\UnityTempFile-2fe96165d92ac9e43a26c8b6575fde17
+    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Temp\UnityTempFile-2fe96165d92ac9e43a26c8b6575fde17
+    projectPath: Temp\UnityTempFile-2fe96165d92ac9e43a26c8b6575fde17
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp\UnityTempFile-4a7b88d9f44d1b74e932dbfa3689a4b3
-    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Temp\UnityTempFile-4a7b88d9f44d1b74e932dbfa3689a4b3
-    projectPath: Temp\UnityTempFile-4a7b88d9f44d1b74e932dbfa3689a4b3
+  - path: Temp\UnityTempFile-34a96c682ced30e4a99953bdb83f82e4
+    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Temp\UnityTempFile-34a96c682ced30e4a99953bdb83f82e4
+    projectPath: Temp\UnityTempFile-34a96c682ced30e4a99953bdb83f82e4
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp\UnityTempFile-58246ba8dbc44be45855692a2bf77489
-    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Temp\UnityTempFile-58246ba8dbc44be45855692a2bf77489
-    projectPath: Temp\UnityTempFile-58246ba8dbc44be45855692a2bf77489
+  - path: Temp\UnityTempFile-3a100d6c62ce3f643abb5414d575cb4d
+    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Temp\UnityTempFile-3a100d6c62ce3f643abb5414d575cb4d
+    projectPath: Temp\UnityTempFile-3a100d6c62ce3f643abb5414d575cb4d
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp\UnityTempFile-6585c406f99f5be498c73d2b3c56016e
-    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Temp\UnityTempFile-6585c406f99f5be498c73d2b3c56016e
-    projectPath: Temp\UnityTempFile-6585c406f99f5be498c73d2b3c56016e
+  - path: Temp\UnityTempFile-3c4cec0a2a6c1a742bfb14b5f8f038b1
+    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Temp\UnityTempFile-3c4cec0a2a6c1a742bfb14b5f8f038b1
+    projectPath: Temp\UnityTempFile-3c4cec0a2a6c1a742bfb14b5f8f038b1
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp\UnityTempFile-78da0f55df3a2854f92709551b3e6a83
-    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Temp\UnityTempFile-78da0f55df3a2854f92709551b3e6a83
-    projectPath: Temp\UnityTempFile-78da0f55df3a2854f92709551b3e6a83
+  - path: Temp\UnityTempFile-3f13eb89c16639249b466308c29a5ff4
+    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Temp\UnityTempFile-3f13eb89c16639249b466308c29a5ff4
+    projectPath: Temp\UnityTempFile-3f13eb89c16639249b466308c29a5ff4
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp\UnityTempFile-7d479a7a55b0cba42b3b32cddcea104f
-    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Temp\UnityTempFile-7d479a7a55b0cba42b3b32cddcea104f
-    projectPath: Temp\UnityTempFile-7d479a7a55b0cba42b3b32cddcea104f
+  - path: Temp\UnityTempFile-4a5eeaa743403134f90f92585d020c5c
+    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Temp\UnityTempFile-4a5eeaa743403134f90f92585d020c5c
+    projectPath: Temp\UnityTempFile-4a5eeaa743403134f90f92585d020c5c
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp\UnityTempFile-92584dc328db8564f95f5dbb00899d8c
-    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Temp\UnityTempFile-92584dc328db8564f95f5dbb00899d8c
-    projectPath: Temp\UnityTempFile-92584dc328db8564f95f5dbb00899d8c
+  - path: Temp\UnityTempFile-5334f48fe4ed28f42a066357820b21fa
+    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Temp\UnityTempFile-5334f48fe4ed28f42a066357820b21fa
+    projectPath: Temp\UnityTempFile-5334f48fe4ed28f42a066357820b21fa
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp\UnityTempFile-93da277dee1b00544b1f363184b88fd6
-    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Temp\UnityTempFile-93da277dee1b00544b1f363184b88fd6
-    projectPath: Temp\UnityTempFile-93da277dee1b00544b1f363184b88fd6
+  - path: Temp\UnityTempFile-6a2597424e8db4d469a18b36f7619ab0
+    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Temp\UnityTempFile-6a2597424e8db4d469a18b36f7619ab0
+    projectPath: Temp\UnityTempFile-6a2597424e8db4d469a18b36f7619ab0
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp\UnityTempFile-949e6ab0c46b55d42bd0cb3a5a6c152d
-    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Temp\UnityTempFile-949e6ab0c46b55d42bd0cb3a5a6c152d
-    projectPath: Temp\UnityTempFile-949e6ab0c46b55d42bd0cb3a5a6c152d
+  - path: Temp\UnityTempFile-6dec7f6333ba63b40874a013eb65bb5f
+    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Temp\UnityTempFile-6dec7f6333ba63b40874a013eb65bb5f
+    projectPath: Temp\UnityTempFile-6dec7f6333ba63b40874a013eb65bb5f
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp\UnityTempFile-94a56267bc19fcc4cb45e967de952399
-    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Temp\UnityTempFile-94a56267bc19fcc4cb45e967de952399
-    projectPath: Temp\UnityTempFile-94a56267bc19fcc4cb45e967de952399
+  - path: Temp\UnityTempFile-70aa1211d8ccdc24caa5b4c7cd18b2b0
+    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Temp\UnityTempFile-70aa1211d8ccdc24caa5b4c7cd18b2b0
+    projectPath: Temp\UnityTempFile-70aa1211d8ccdc24caa5b4c7cd18b2b0
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp\UnityTempFile-9d1bd9c85edc3934db46b4b515d0f16a
-    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Temp\UnityTempFile-9d1bd9c85edc3934db46b4b515d0f16a
-    projectPath: Temp\UnityTempFile-9d1bd9c85edc3934db46b4b515d0f16a
+  - path: Temp\UnityTempFile-7157180beada6124a9441cec835aab9c
+    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Temp\UnityTempFile-7157180beada6124a9441cec835aab9c
+    projectPath: Temp\UnityTempFile-7157180beada6124a9441cec835aab9c
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp\UnityTempFile-9e459793b3b2db443a35b887a33bda17
-    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Temp\UnityTempFile-9e459793b3b2db443a35b887a33bda17
-    projectPath: Temp\UnityTempFile-9e459793b3b2db443a35b887a33bda17
+  - path: Temp\UnityTempFile-71c0513e4e215c547bce9d176a0a8d3e
+    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Temp\UnityTempFile-71c0513e4e215c547bce9d176a0a8d3e
+    projectPath: Temp\UnityTempFile-71c0513e4e215c547bce9d176a0a8d3e
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp\UnityTempFile-b235dfdd08e66054e94e5cb8ab71a731
-    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Temp\UnityTempFile-b235dfdd08e66054e94e5cb8ab71a731
-    projectPath: Temp\UnityTempFile-b235dfdd08e66054e94e5cb8ab71a731
+  - path: Temp\UnityTempFile-7515ef2d4362052498b126a85fda20d0
+    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Temp\UnityTempFile-7515ef2d4362052498b126a85fda20d0
+    projectPath: Temp\UnityTempFile-7515ef2d4362052498b126a85fda20d0
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp\UnityTempFile-b2eb8cc7f8be398408e46b8bde5ff0c4
-    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Temp\UnityTempFile-b2eb8cc7f8be398408e46b8bde5ff0c4
-    projectPath: Temp\UnityTempFile-b2eb8cc7f8be398408e46b8bde5ff0c4
+  - path: Temp\UnityTempFile-777383503a05d434e8eb93c0280837ab
+    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Temp\UnityTempFile-777383503a05d434e8eb93c0280837ab
+    projectPath: Temp\UnityTempFile-777383503a05d434e8eb93c0280837ab
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp\UnityTempFile-c9d40cad82161f04bbb4971ef48e7e11
-    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Temp\UnityTempFile-c9d40cad82161f04bbb4971ef48e7e11
-    projectPath: Temp\UnityTempFile-c9d40cad82161f04bbb4971ef48e7e11
+  - path: Temp\UnityTempFile-7912b087b73e9df44bbb7ff753222aa6
+    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Temp\UnityTempFile-7912b087b73e9df44bbb7ff753222aa6
+    projectPath: Temp\UnityTempFile-7912b087b73e9df44bbb7ff753222aa6
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp\UnityTempFile-cab279e06a669ed4f9c2c6bcf241ef79
-    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Temp\UnityTempFile-cab279e06a669ed4f9c2c6bcf241ef79
-    projectPath: Temp\UnityTempFile-cab279e06a669ed4f9c2c6bcf241ef79
+  - path: Temp\UnityTempFile-79f4c9930a8a1d24897b492b851913e0
+    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Temp\UnityTempFile-79f4c9930a8a1d24897b492b851913e0
+    projectPath: Temp\UnityTempFile-79f4c9930a8a1d24897b492b851913e0
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp\UnityTempFile-d96bbc025fb9de24eaf58f0ebd018d28
-    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Temp\UnityTempFile-d96bbc025fb9de24eaf58f0ebd018d28
-    projectPath: Temp\UnityTempFile-d96bbc025fb9de24eaf58f0ebd018d28
+  - path: Temp\UnityTempFile-7bc785b208e34f040b34568db5956339
+    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Temp\UnityTempFile-7bc785b208e34f040b34568db5956339
+    projectPath: Temp\UnityTempFile-7bc785b208e34f040b34568db5956339
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp\UnityTempFile-db6799600257c084caf496094aa2aa96
-    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Temp\UnityTempFile-db6799600257c084caf496094aa2aa96
-    projectPath: Temp\UnityTempFile-db6799600257c084caf496094aa2aa96
+  - path: Temp\UnityTempFile-7d444397268b00b42907f8657eedc78e
+    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Temp\UnityTempFile-7d444397268b00b42907f8657eedc78e
+    projectPath: Temp\UnityTempFile-7d444397268b00b42907f8657eedc78e
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp\UnityTempFile-e4de9d270eb42f34aa091b1607aa947a
-    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Temp\UnityTempFile-e4de9d270eb42f34aa091b1607aa947a
-    projectPath: Temp\UnityTempFile-e4de9d270eb42f34aa091b1607aa947a
+  - path: Temp\UnityTempFile-81acfb0a9f7228b41876f22002dc1afa
+    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Temp\UnityTempFile-81acfb0a9f7228b41876f22002dc1afa
+    projectPath: Temp\UnityTempFile-81acfb0a9f7228b41876f22002dc1afa
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp\UnityTempFile-ee1613b3e6e9f7a43adbe1bcda677372
-    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Temp\UnityTempFile-ee1613b3e6e9f7a43adbe1bcda677372
-    projectPath: Temp\UnityTempFile-ee1613b3e6e9f7a43adbe1bcda677372
+  - path: Temp\UnityTempFile-84a8df4fb5cd49e47b9a3d30d56277ae
+    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Temp\UnityTempFile-84a8df4fb5cd49e47b9a3d30d56277ae
+    projectPath: Temp\UnityTempFile-84a8df4fb5cd49e47b9a3d30d56277ae
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp\UnityTempFile-f38ba568da960384aa0cc97ac8acb49a
-    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Temp\UnityTempFile-f38ba568da960384aa0cc97ac8acb49a
-    projectPath: Temp\UnityTempFile-f38ba568da960384aa0cc97ac8acb49a
+  - path: Temp\UnityTempFile-85628972e95835447abf6fa6941b952a
+    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Temp\UnityTempFile-85628972e95835447abf6fa6941b952a
+    projectPath: Temp\UnityTempFile-85628972e95835447abf6fa6941b952a
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp\UnityTempFile-f6673ced97b002145a6c73d58f9d53aa
-    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Temp\UnityTempFile-f6673ced97b002145a6c73d58f9d53aa
-    projectPath: Temp\UnityTempFile-f6673ced97b002145a6c73d58f9d53aa
+  - path: Temp\UnityTempFile-889de0227cec26844bcb967134b428ba
+    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Temp\UnityTempFile-889de0227cec26844bcb967134b428ba
+    projectPath: Temp\UnityTempFile-889de0227cec26844bcb967134b428ba
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp\UnityTempFile-f718145ca1789b448b4a083f039139cf
-    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Temp\UnityTempFile-f718145ca1789b448b4a083f039139cf
-    projectPath: Temp\UnityTempFile-f718145ca1789b448b4a083f039139cf
+  - path: Temp\UnityTempFile-8e1baf93623594e48ae47c03408bb75d
+    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Temp\UnityTempFile-8e1baf93623594e48ae47c03408bb75d
+    projectPath: Temp\UnityTempFile-8e1baf93623594e48ae47c03408bb75d
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp\UnityTempFile-fa682abc1af7488458d7b76ab656a230
-    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Temp\UnityTempFile-fa682abc1af7488458d7b76ab656a230
-    projectPath: Temp\UnityTempFile-fa682abc1af7488458d7b76ab656a230
+  - path: Temp\UnityTempFile-940c2541d20712d449e0141aa889d02a
+    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Temp\UnityTempFile-940c2541d20712d449e0141aa889d02a
+    projectPath: Temp\UnityTempFile-940c2541d20712d449e0141aa889d02a
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-951a9029e1ddcd44ba0db44aa839ac5c
+    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Temp\UnityTempFile-951a9029e1ddcd44ba0db44aa839ac5c
+    projectPath: Temp\UnityTempFile-951a9029e1ddcd44ba0db44aa839ac5c
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-9641414f00e2a0146b104d0d3c2b8405
+    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Temp\UnityTempFile-9641414f00e2a0146b104d0d3c2b8405
+    projectPath: Temp\UnityTempFile-9641414f00e2a0146b104d0d3c2b8405
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-99ec60a36e7aede40b9062b66483779d
+    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Temp\UnityTempFile-99ec60a36e7aede40b9062b66483779d
+    projectPath: Temp\UnityTempFile-99ec60a36e7aede40b9062b66483779d
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-ad24f1b0295e8474bb47610be0714a23
+    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Temp\UnityTempFile-ad24f1b0295e8474bb47610be0714a23
+    projectPath: Temp\UnityTempFile-ad24f1b0295e8474bb47610be0714a23
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-af2e5e338de33f64bbc2ff3cf0342157
+    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Temp\UnityTempFile-af2e5e338de33f64bbc2ff3cf0342157
+    projectPath: Temp\UnityTempFile-af2e5e338de33f64bbc2ff3cf0342157
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-b775bdae875fee048a85238db94f7a02
+    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Temp\UnityTempFile-b775bdae875fee048a85238db94f7a02
+    projectPath: Temp\UnityTempFile-b775bdae875fee048a85238db94f7a02
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-bb007557d5336b74a8c2a56de823bda1
+    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Temp\UnityTempFile-bb007557d5336b74a8c2a56de823bda1
+    projectPath: Temp\UnityTempFile-bb007557d5336b74a8c2a56de823bda1
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-be01ab4febcdcf34b976b50eeb1971af
+    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Temp\UnityTempFile-be01ab4febcdcf34b976b50eeb1971af
+    projectPath: Temp\UnityTempFile-be01ab4febcdcf34b976b50eeb1971af
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-c4fff5a1e6cf17e4883b6690936eaf68
+    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Temp\UnityTempFile-c4fff5a1e6cf17e4883b6690936eaf68
+    projectPath: Temp\UnityTempFile-c4fff5a1e6cf17e4883b6690936eaf68
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-ca6515bfc7f301741b87654948e88110
+    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Temp\UnityTempFile-ca6515bfc7f301741b87654948e88110
+    projectPath: Temp\UnityTempFile-ca6515bfc7f301741b87654948e88110
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-d21f2c7c96604144ab8dbffff24305ad
+    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Temp\UnityTempFile-d21f2c7c96604144ab8dbffff24305ad
+    projectPath: Temp\UnityTempFile-d21f2c7c96604144ab8dbffff24305ad
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-d38644d86d5b22a4d97b21e942cade63
+    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Temp\UnityTempFile-d38644d86d5b22a4d97b21e942cade63
+    projectPath: Temp\UnityTempFile-d38644d86d5b22a4d97b21e942cade63
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-d646e3d2c5f495547b226a640315fcc2
+    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Temp\UnityTempFile-d646e3d2c5f495547b226a640315fcc2
+    projectPath: Temp\UnityTempFile-d646e3d2c5f495547b226a640315fcc2
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-d72c16e5d35a8fb438f8ef7ba2972eee
+    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Temp\UnityTempFile-d72c16e5d35a8fb438f8ef7ba2972eee
+    projectPath: Temp\UnityTempFile-d72c16e5d35a8fb438f8ef7ba2972eee
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-daa049241430f4d4381e801e1a904d53
+    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Temp\UnityTempFile-daa049241430f4d4381e801e1a904d53
+    projectPath: Temp\UnityTempFile-daa049241430f4d4381e801e1a904d53
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-e172a319ead4db5409ed622a05a54145
+    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Temp\UnityTempFile-e172a319ead4db5409ed622a05a54145
+    projectPath: Temp\UnityTempFile-e172a319ead4db5409ed622a05a54145
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-e25f03018d6f4154d8545b5203cdf166
+    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Temp\UnityTempFile-e25f03018d6f4154d8545b5203cdf166
+    projectPath: Temp\UnityTempFile-e25f03018d6f4154d8545b5203cdf166
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-e6d87ed845e28a94bbc526bb591ccca3
+    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Temp\UnityTempFile-e6d87ed845e28a94bbc526bb591ccca3
+    projectPath: Temp\UnityTempFile-e6d87ed845e28a94bbc526bb591ccca3
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-f515cbf53e1203a42a2ac904046f3b01
+    fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Temp\UnityTempFile-f515cbf53e1203a42a2ac904046f3b01
+    projectPath: Temp\UnityTempFile-f515cbf53e1203a42a2ac904046f3b01
     originalPath: 
     status: 1
     staged: 0

@@ -11,10 +11,250 @@ MonoBehaviour:
   m_Script: {fileID: -530159753, guid: 9a061e60adce7b54fb5293b1f59c5b07, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lastUpdatedAtString: 2017-12-30T17:53:24.0713396+01:00
-  lastVerifiedAtString: 2017-12-30T17:53:24.0713396+01:00
-  initializedAtString: 2017-12-30T14:54:00.6147051+01:00
+  lastUpdatedAtString: 2017-12-31T00:43:27.1245538+01:00
+  lastVerifiedAtString: 2017-12-31T00:43:27.1245538+01:00
+  initializedAtString: 2017-12-30T19:46:18.6128212+01:00
   log:
+  - commitID: fbf67696381dffef7d44b6b25e6a7f3ff3162cf8
+    mergeA: 
+    mergeB: 
+    authorName: Unknown
+    authorEmail: geoffreydu38@hotmail.fr
+    commitEmail: geoffreydu38@hotmail.fr
+    commitName: Unknown
+    summary: "Clavier randoms, nom cens\xE9 \xEAtre centr\xE9"
+    description: "Clavier randoms, nom cens\xE9 \xEAtre centr\xE9\r\n"
+    timeString: 2017-12-30T17:56:28.0000000+01:00
+    commitTimeString: 2017-12-30T17:56:28.0000000+01:00
+    changes:
+    - path: .vs\AnimeQuizzName\v15\.suo
+      fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\.vs\AnimeQuizzName\v15\.suo
+      projectPath: .vs\AnimeQuizzName\v15\.suo
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: .vs\AnimeQuizzName\v15\Server\sqlite3\storage.ide
+      fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\.vs\AnimeQuizzName\v15\Server\sqlite3\storage.ide
+      projectPath: .vs\AnimeQuizzName\v15\Server\sqlite3\storage.ide
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: .vs\AnimeQuizzName\v15\Server\sqlite3\storage.ide-shm
+      fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\.vs\AnimeQuizzName\v15\Server\sqlite3\storage.ide-shm
+      projectPath: .vs\AnimeQuizzName\v15\Server\sqlite3\storage.ide-shm
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: .vs\AnimeQuizzName\v15\Server\sqlite3\storage.ide-wal
+      fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\.vs\AnimeQuizzName\v15\Server\sqlite3\storage.ide-wal
+      projectPath: .vs\AnimeQuizzName\v15\Server\sqlite3\storage.ide-wal
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: AnimeQuizzName.csproj
+      fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\AnimeQuizzName.csproj
+      projectPath: AnimeQuizzName.csproj
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Assets\COIN.unity
+      fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Assets\COIN.unity
+      projectPath: Assets\COIN.unity
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Assets\Clavier.cs
+      fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Assets\Clavier.cs
+      projectPath: Assets\Clavier.cs
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Assets\Script\CanvasManager.cs
+      fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Assets\Script\CanvasManager.cs
+      projectPath: Assets\Script\CanvasManager.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Script\CanvasManager.cs.meta
+      fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Assets\Script\CanvasManager.cs.meta
+      projectPath: Assets\Script\CanvasManager.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Script\Clavier.cs
+      fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Assets\Script\Clavier.cs
+      projectPath: Assets\Script\Clavier.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Script\Clavier.cs.meta
+      fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Assets\Script\Clavier.cs.meta
+      projectPath: Assets\Script\Clavier.cs.meta
+      originalPath: Assets\Clavier.cs.meta
+      status: 6
+      staged: 0
+    - path: Assets\Script\ImageAnime.cs
+      fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Assets\Script\ImageAnime.cs
+      projectPath: Assets\Script\ImageAnime.cs
+      originalPath: Assets\ImageAnime.cs
+      status: 6
+      staged: 0
+    - path: Assets\Script\ImageAnime.cs.meta
+      fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Assets\Script\ImageAnime.cs.meta
+      projectPath: Assets\Script\ImageAnime.cs.meta
+      originalPath: Assets\ImageAnime.cs.meta
+      status: 6
+      staged: 0
+    - path: Assets\Script\Reponse.cs
+      fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Assets\Script\Reponse.cs
+      projectPath: Assets\Script\Reponse.cs
+      originalPath: Assets\Reponse.cs
+      status: 6
+      staged: 0
+    - path: Assets\Script\Reponse.cs.meta
+      fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Assets\Script\Reponse.cs.meta
+      projectPath: Assets\Script\Reponse.cs.meta
+      originalPath: Assets\Reponse.cs.meta
+      status: 6
+      staged: 0
+    - path: Assets\prefab\LettreClavier.prefab
+      fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Assets\prefab\LettreClavier.prefab
+      projectPath: Assets\prefab\LettreClavier.prefab
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Assets\prefab\LettreClavier.prefab.meta
+      fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Assets\prefab\LettreClavier.prefab.meta
+      projectPath: Assets\prefab\LettreClavier.prefab.meta
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\CurrentLayout.dwlt
+      fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Library\CurrentLayout.dwlt
+      projectPath: Library\CurrentLayout.dwlt
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+      fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Library\ScriptAssemblies\Assembly-CSharp.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+      fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\assetDatabase3
+      fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Library\assetDatabase3
+      projectPath: Library\assetDatabase3
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gituser.yaml
+      fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Library\gfu\cache\gituser.yaml
+      projectPath: Library\gfu\cache\gituser.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\19\196d37aba50434042a147d431c6426b6
+      fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Library\metadata\19\196d37aba50434042a147d431c6426b6
+      projectPath: Library\metadata\19\196d37aba50434042a147d431c6426b6
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\19\196d37aba50434042a147d431c6426b6.info
+      fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Library\metadata\19\196d37aba50434042a147d431c6426b6.info
+      projectPath: Library\metadata\19\196d37aba50434042a147d431c6426b6.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\68\6801cf4e9cc953740ad869025bc55654
+      fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Library\metadata\68\6801cf4e9cc953740ad869025bc55654
+      projectPath: Library\metadata\68\6801cf4e9cc953740ad869025bc55654
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\68\6801cf4e9cc953740ad869025bc55654.info
+      fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Library\metadata\68\6801cf4e9cc953740ad869025bc55654.info
+      projectPath: Library\metadata\68\6801cf4e9cc953740ad869025bc55654.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\6c\6c4cf58d2e4debd43b48503f6635a83e
+      fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Library\metadata\6c\6c4cf58d2e4debd43b48503f6635a83e
+      projectPath: Library\metadata\6c\6c4cf58d2e4debd43b48503f6635a83e
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\6c\6c4cf58d2e4debd43b48503f6635a83e.info
+      fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Library\metadata\6c\6c4cf58d2e4debd43b48503f6635a83e.info
+      projectPath: Library\metadata\6c\6c4cf58d2e4debd43b48503f6635a83e.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\99\99f557e874aaf2a4b807d7c90efbc5c8
+      fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Library\metadata\99\99f557e874aaf2a4b807d7c90efbc5c8
+      projectPath: Library\metadata\99\99f557e874aaf2a4b807d7c90efbc5c8
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\99\99f557e874aaf2a4b807d7c90efbc5c8.info
+      fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Library\metadata\99\99f557e874aaf2a4b807d7c90efbc5c8.info
+      projectPath: Library\metadata\99\99f557e874aaf2a4b807d7c90efbc5c8.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\b4\b48057e61e0a96c49927cdb63b72ae7b
+      fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Library\metadata\b4\b48057e61e0a96c49927cdb63b72ae7b
+      projectPath: Library\metadata\b4\b48057e61e0a96c49927cdb63b72ae7b
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\b4\b48057e61e0a96c49927cdb63b72ae7b.info
+      fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Library\metadata\b4\b48057e61e0a96c49927cdb63b72ae7b.info
+      projectPath: Library\metadata\b4\b48057e61e0a96c49927cdb63b72ae7b.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      fullPath: C:\Users\Geoffrey\Documents\Github\AnimeQuizzName\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      originalPath: 
+      status: 3
+      staged: 0
   - commitID: 82edb6fe34e60bfed1b6531c64d27b01ff2288b9
     mergeA: 
     mergeB: 

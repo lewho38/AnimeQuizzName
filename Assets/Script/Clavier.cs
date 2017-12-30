@@ -19,11 +19,12 @@ public class Clavier : MonoBehaviour {
     public Button btn_clavier;
     private float w_btn;
     private List<Button> lb = new List<Button>();
-    void Start () {
+    void Start ()
+    {
         w_btn = btn_clavier.image.rectTransform.sizeDelta.x;
         totalWidthDispo = Screen.width - offSetX * 2;//offSetX*2 pour prend que ce soit offset à gauche et à droite
         totalWidth = columns * w_btn;
-        ecart = w_btn + (totalWidthDispo - totalWidth)/ (columns-1); // -1 il y'a n-1 écart pour n bouton
+        ecart = w_btn + (totalWidthDispo - totalWidth)/ (columns-1); // -1 : il y'a n-1 écart pour n bouton
         float startPos = (totalWidthDispo) /-2 + w_btn/2;
         
         for (int k = 0; k < lines; k++)
